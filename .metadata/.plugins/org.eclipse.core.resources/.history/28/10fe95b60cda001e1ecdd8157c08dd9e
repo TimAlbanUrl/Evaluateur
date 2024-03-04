@@ -38,7 +38,6 @@ public class TestsEvaluateur {
 		niveauxPossibles.add("B");
 		niveauxPossibles.add("C");
 		niveauxPossibles.add("D");
-		System.out.println("kzUGEez");
 	}
 	
 	@Nested
